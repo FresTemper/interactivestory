@@ -1,2 +1,2 @@
 # interactivestory
-asdasdasdasdas
+System.out.printlnsadasdsa
